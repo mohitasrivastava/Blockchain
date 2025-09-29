@@ -3,8 +3,6 @@ https://docs.chain.link/data-feeds/using-data-feeds
 https://faucets.chain.link/sepolia
 https://docs.chain.link/chainlink-functions
 
-$imo
-#hhnn
 
 ```Chainlink VRF - to get the decentralized Random number```
 Chainlink function - for any api call 
